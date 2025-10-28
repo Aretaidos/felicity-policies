@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Use - Felicity</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.7;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            color: #333;
+            background-color: #fff;
+        }
+
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+
+        .logo {
+            font-size: 2.5em;
+            font-weight: 700;
+            color: #2563eb;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            color: #1f2937;
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        h2 {
+            color: #374151;
+            font-size: 1.4em;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            font-weight: 600;
+            border-left: 4px solid #2563eb;
+            padding-left: 15px;
+        }
+
+        .last-updated {
+            color: #6b7280;
+            font-style: italic;
+            font-size: 0.95em;
+            margin-bottom: 30px;
+        }
+
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        ul, ol {
+            margin-bottom: 20px;
+            padding-left: 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .highlight-box {
+            background-color: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 25px 0;
+        }
+
+        .contact-info {
+            background-color: #dbeafe;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+            text-align: center;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 1px solid #e5e7eb;
+            color: #6b7280;
+            font-size: 0.9em;
+        }
+
+        strong {
+            color: #1f2937;
+        }
+
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">Felicity</div>
+        <h1>Terms of Use</h1>
+        <p class="last-updated">Last updated: October 28, 2025</p>
+    </div>
+
+    <div class="highlight-box">
+        <p><strong>Welcome to Felicity!</strong> These terms govern your use of Felicity, an AI assistant designed to help you coordinate your life more effectively. By using our service, you agree to these terms.</p>
+    </div>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing or using Felicity, you agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree to these terms, please do not use our service.</p>
+
+    <h2>2. Description of Service</h2>
+    <p>Felicity is an AI-powered personal assistant that helps you:</p>
+    <ul>
+        <li><strong>Coordinate Your Schedule:</strong> Manage calendar conflicts, prepare for meetings, and optimize your time</li>
+        <li><strong>Assist with Communications:</strong> Draft emails, manage responses, and provide context from your history</li>
+        <li><strong>Create Learning Plans:</strong> Research methodologies and create personalized training schedules</li>
+        <li><strong>Provide Proactive Assistance:</strong> Use your data to anticipate needs and suggest actions</li>
+        <li><strong>Enable Agent Coordination:</strong> Allow your AI to communicate with other users' AIs when authorized</li>
+    </ul>
+
+    <h2>3. User Accounts and Eligibility</h2>
+    <ul>
+        <li>You must be at least 13 years old to use Felicity</li>
+        <li>You must provide accurate and complete information when creating an account</li>
+        <li>You are responsible for maintaining the security of your account credentials</li>
+        <li>You may not share your account with others or create multiple accounts</li>
+        <li>We reserve the right to suspend or terminate accounts that violate these terms</li>
+    </ul>
+
+    <h2>4. Authorized Use</h2>
+    <p>You agree to use Felicity only for lawful purposes and in accordance with these terms. You may not:</p>
+    <ul>
+        <li>Use the service for any illegal or unauthorized purpose</li>
+        <li>Attempt to gain unauthorized access to our systems or other users' data</li>
+        <li>Interfere with or disrupt the service or servers</li>
+        <li>Upload or transmit malicious code, viruses, or harmful content</li>
+        <li>Use the service to spam, harass, or abuse others</li>
+        <li>Reverse engineer, modify, or create derivative works of our software</li>
+        <li>Use automated systems to access the service without authorization</li>
+    </ul>
+
+    <h2>5. Data and Privacy</h2>
+    <div class="highlight-box">
+        <p><strong>Your Data Remains Yours:</strong> Felicity processes your data solely to provide coordination assistance. We don't train on your data, sell it, or use it for any purpose beyond helping you manage your life more effectively.</p>
+    </div>
+    <p>By using Felicity, you:</p>
+    <ul>
+        <li>Grant us permission to access data from services you explicitly connect (Notion, email, calendar)</li>
+        <li>Understand that we process this data using AI to provide intelligent assistance</li>
+        <li>Acknowledge that you can revoke access or delete your data at any time</li>
+        <li>Confirm you have the right to share any data you provide to Felicity</li>
+    </ul>
+
+    <h2>6. Third-Party Integrations</h2>
+    <p>Felicity integrates with third-party services including:</p>
+    <ul>
+        <li><strong>Notion:</strong> For workspace content access</li>
+        <li><strong>Email Providers:</strong> For email management via Nylas</li>
+        <li><strong>Calendar Services:</strong> For scheduling assistance</li>
+        <li><strong>Research Services:</strong> For information gathering via Valyu</li>
+    </ul>
+    <p>Your use of these integrations is subject to their respective terms of service. We are not responsible for the availability, functionality, or policies of third-party services.</p>
+
+    <h2>7. Agent-to-Agent (A2A) Communications</h2>
+    <p>When using Felicity's A2A features:</p>
+    <ul>
+        <li>You control what information your AI assistant can share with others</li>
+        <li>Communications between AI assistants are logged for transparency</li>
+        <li>You can disable A2A features at any time</li>
+        <li>You are responsible for ensuring you have permission to share any information</li>
+        <li>We are not liable for the content or outcomes of A2A communications</li>
+    </ul>
+
+    <h2>8. AI Assistance and Limitations</h2>
+    <p>Felicity uses artificial intelligence to provide assistance. Please understand:</p>
+    <ul>
+        <li>AI responses are generated based on available data and may not always be accurate</li>
+        <li>Felicity is designed to assist, not replace, your judgment and decision-making</li>
+        <li>We do not guarantee the accuracy, completeness, or reliability of AI-generated content</li>
+        <li>You should verify important information independently</li>
+        <li>Felicity should not be used for medical, legal, or financial advice</li>
+    </ul>
+
+    <h2>9. Intellectual Property</h2>
+    <ul>
+        <li>Felicity and its technology are owned by us and protected by intellectual property laws</li>
+        <li>You retain ownership of your data and content</li>
+        <li>We may use aggregated, anonymized usage data to improve our service</li>
+        <li>You grant us a license to use your data solely to provide the Felicity service</li>
+    </ul>
+
+    <h2>10. Service Availability</h2>
+    <p>We strive to maintain high availability, but:</p>
+    <ul>
+        <li>Felicity may be temporarily unavailable due to maintenance, updates, or technical issues</li>
+        <li>We do not guarantee uninterrupted access to the service</li>
+        <li>Third-party service disruptions may affect Felicity's functionality</li>
+        <li>We will make reasonable efforts to notify users of planned maintenance</li>
+    </ul>
+
+    <h2>11. Limitation of Liability</h2>
+    <p>To the maximum extent permitted by law:</p>
+    <ul>
+        <li>Felicity is provided "as is" without warranties of any kind</li>
+        <li>We are not liable for any direct, indirect, incidental, or consequential damages</li>
+        <li>Our total liability to you shall not exceed the amount you paid for the service</li>
+        <li>We are not responsible for decisions made based on AI assistance or A2A communications</li>
+    </ul>
+
+    <h2>12. Indemnification</h2>
+    <p>You agree to indemnify and hold us harmless from any claims, damages, or expenses arising from:</p>
+    <ul>
+        <li>Your use of Felicity in violation of these terms</li>
+        <li>Your violation of any third-party rights</li>
+        <li>Any content you provide or share through the service</li>
+        <li>Unauthorized use of your account</li>
+    </ul>
+
+    <h2>13. Account Termination</h2>
+    <p>Either party may terminate your account:</p>
+    <ul>
+        <li><strong>By You:</strong> You may delete your account at any time from your settings</li>
+        <li><strong>By Us:</strong> We may suspend or terminate accounts that violate these terms</li>
+        <li><strong>Effect of Termination:</strong> Your data will be deleted according to our Privacy Policy</li>
+        <li><strong>Survival:</strong> Certain provisions (liability limitations, indemnification) survive termination</li>
+    </ul>
+
+    <h2>14. Governing Law</h2>
+    <p>These terms are governed by the laws of the State of California, United States. Any disputes will be resolved in the courts of California.</p>
+
+    <h2>15. Changes to Terms</h2>
+    <p>We may update these Terms of Use to reflect changes in our service or legal requirements:</p>
+    <ul>
+        <li>Material changes will be communicated via email or app notification</li>
+        <li>Continued use after changes constitutes acceptance of new terms</li>
+        <li>If you disagree with changes, you should discontinue use of the service</li>
+    </ul>
+
+    <div class="contact-info">
+        <h2>16. Contact Information</h2>
+        <p>For questions about these Terms of Use:</p>
+        <p><strong>Email:</strong> <a href="mailto:legal@heyfelicity.ai">legal@heyfelicity.ai</a></p>
+        <p><strong>Website:</strong> <a href="https://heyfelicity.ai">heyfelicity.ai</a></p>
+    </div>
+
+    <h2>17. Entire Agreement</h2>
+    <p>These Terms of Use, together with our Privacy Policy, constitute the entire agreement between you and Felicity regarding your use of our service. These terms supersede any prior agreements or understandings.</p>
+
+    <div class="footer">
+        <p>&copy; 2025 Felicity. All rights reserved.</p>
+        <p>These terms are effective as of the last updated date above.</p>
+    </div>
+</body>
+</html>
