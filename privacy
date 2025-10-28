@@ -1,0 +1,226 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Felicity</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.7;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            color: #333;
+            background-color: #fff;
+        }
+
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+
+        .logo {
+            font-size: 2.5em;
+            font-weight: 700;
+            color: #2563eb;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            color: #1f2937;
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        h2 {
+            color: #374151;
+            font-size: 1.4em;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            font-weight: 600;
+            border-left: 4px solid #2563eb;
+            padding-left: 15px;
+        }
+
+        .last-updated {
+            color: #6b7280;
+            font-style: italic;
+            font-size: 0.95em;
+            margin-bottom: 30px;
+        }
+
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        ul, ol {
+            margin-bottom: 20px;
+            padding-left: 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .highlight-box {
+            background-color: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 25px 0;
+        }
+
+        .contact-info {
+            background-color: #dbeafe;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+            text-align: center;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 1px solid #e5e7eb;
+            color: #6b7280;
+            font-size: 0.9em;
+        }
+
+        strong {
+            color: #1f2937;
+        }
+
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">Felicity</div>
+        <h1>Privacy Policy</h1>
+        <p class="last-updated">Last updated: October 28, 2025</p>
+    </div>
+
+    <div class="highlight-box">
+        <p><strong>Our Core Promise:</strong> Felicity is designed to help you coordinate your life better. Your data stays private with you. We don't train on your personal information, sell your data, or use it for anything beyond helping you manage your daily coordination needs.</p>
+    </div>
+
+    <h2>1. What Information We Collect</h2>
+    <p>Felicity collects and processes information only when you explicitly choose to connect your services:</p>
+    <ul>
+        <li><strong>Calendar Data:</strong> Events, meetings, and schedules you share from your calendar applications</li>
+        <li><strong>Email Communications:</strong> Email content you choose to share for AI assistance and drafting</li>
+        <li><strong>Notion Workspace Content:</strong> Pages, notes, and documents you explicitly authorize through OAuth</li>
+        <li><strong>Basic Account Information:</strong> User ID, connected service names, and authentication tokens</li>
+        <li><strong>Usage Information:</strong> How you interact with Felicity to improve your experience</li>
+    </ul>
+
+    <h2>2. How We Use Your Information</h2>
+    <p>We use your information solely to provide intelligent coordination assistance:</p>
+    <ul>
+        <li><strong>Proactive Scheduling:</strong> Help you manage conflicts, prepare for meetings, and optimize your time</li>
+        <li><strong>Intelligent Email Assistance:</strong> Draft responses based on your communication history and context</li>
+        <li><strong>Learning & Training Plans:</strong> Create personalized schedules using research and your preferences</li>
+        <li><strong>Memory & Context:</strong> Remember important details to provide better assistance over time</li>
+        <li><strong>Agent-to-Agent Communication:</strong> Enable your AI to coordinate with others' AIs when you choose</li>
+    </ul>
+
+    <h2>3. What We Don't Do With Your Data</h2>
+    <div class="highlight-box">
+        <ul>
+            <li><strong>No Training:</strong> We don't use your personal data to train AI models</li>
+            <li><strong>No Selling:</strong> Your data is never sold, shared, or monetized</li>
+            <li><strong>No Marketing:</strong> We don't use your information for advertising or marketing purposes</li>
+            <li><strong>No Surveillance:</strong> We only access what you explicitly authorize</li>
+        </ul>
+    </div>
+
+    <h2>4. Data Storage and Security</h2>
+    <p>Your information is protected with enterprise-grade security:</p>
+    <ul>
+        <li><strong>Encryption:</strong> All data is encrypted both in transit and at rest</li>
+        <li><strong>Access Controls:</strong> Strict authentication and authorization protocols</li>
+        <li><strong>User-Specific Isolation:</strong> Your data is completely separated from other users</li>
+        <li><strong>Secure Storage:</strong> Using industry-standard cloud infrastructure with SOC 2 compliance</li>
+        <li><strong>Regular Audits:</strong> Continuous security monitoring and vulnerability assessments</li>
+    </ul>
+
+    <h2>5. Third-Party Integrations</h2>
+    <p>Felicity integrates with the following services through official OAuth protocols:</p>
+    <ul>
+        <li><strong>Notion:</strong> For accessing your workspace content you authorize</li>
+        <li><strong>Google/Outlook:</strong> For calendar and email access via Nylas</li>
+        <li><strong>Supermemory:</strong> For secure memory storage and retrieval</li>
+        <li><strong>Valyu:</strong> For research capabilities using their DeepSearch API</li>
+    </ul>
+    <p>We only access data you explicitly authorize through each service's OAuth flow. We do not have access to any content beyond what you specifically grant permission for.</p>
+
+    <h2>6. Your Rights and Control</h2>
+    <p>You have complete control over your data and privacy:</p>
+    <ul>
+        <li><strong>Disconnect Anytime:</strong> Remove any connected service instantly from your settings</li>
+        <li><strong>Data Deletion:</strong> Request complete deletion of your data at any time</li>
+        <li><strong>Access & Export:</strong> Download all your data in a standard format</li>
+        <li><strong>Selective Sharing:</strong> Choose exactly what information to share with Felicity</li>
+        <li><strong>Revoke Permissions:</strong> Manage OAuth permissions directly in each connected service</li>
+    </ul>
+
+    <h2>7. Agent-to-Agent (A2A) Protocol</h2>
+    <p>When using Felicity's A2A features to coordinate with other users' AI assistants:</p>
+    <ul>
+        <li>Only information you explicitly approve is shared</li>
+        <li>Communications are authenticated and encrypted</li>
+        <li>You can disable A2A features at any time</li>
+        <li>No data is shared without your explicit consent for each interaction</li>
+    </ul>
+
+    <h2>8. Data Retention</h2>
+    <p>We retain your data only as long as necessary to provide our services:</p>
+    <ul>
+        <li><strong>Active Use:</strong> Data is retained while you actively use Felicity</li>
+        <li><strong>Account Deletion:</strong> All data is permanently deleted within 30 days of account closure</li>
+        <li><strong>Service Disconnection:</strong> Data from disconnected services is deleted within 7 days</li>
+        <li><strong>Legal Requirements:</strong> We may retain data longer only if required by law</li>
+    </ul>
+
+    <h2>9. Children's Privacy</h2>
+    <p>Felicity is not designed for children under 13. We do not knowingly collect personal information from children under 13. If we learn we have collected information from a child under 13, we will delete it immediately.</p>
+
+    <h2>10. International Data Transfers</h2>
+    <p>Your data may be processed in the United States and other countries where our service providers operate. We ensure appropriate safeguards are in place for any international data transfers.</p>
+
+    <div class="contact-info">
+        <h2>11. Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy or your data:</p>
+        <p><strong>Email:</strong> <a href="mailto:privacy@heyfelicity.ai">privacy@heyfelicity.ai</a></p>
+        <p><strong>Website:</strong> <a href="https://heyfelicity.ai">heyfelicity.ai</a></p>
+    </div>
+
+    <h2>12. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by:</p>
+    <ul>
+        <li>Posting the updated policy on this page with a new "Last updated" date</li>
+        <li>Sending you an email notification if you have an active account</li>
+        <li>Displaying a notice in the Felicity app</li>
+    </ul>
+    <p>Your continued use of Felicity after any changes constitutes acceptance of the updated Privacy Policy.</p>
+
+    <div class="footer">
+        <p>&copy; 2025 Felicity. All rights reserved.</p>
+        <p>This policy is effective as of the last updated date above.</p>
+    </div>
+</body>
+</html>
